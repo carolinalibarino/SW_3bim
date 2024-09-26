@@ -1,5 +1,5 @@
 <?php
-    $senha = "123Euamolaranja";
+    $senha = "alunaetecmcm";
 
     // $data = date("Ymd");
     // echo $data;
@@ -7,7 +7,7 @@
     // $total = $senha + $data;
 
         
-    // 31d5d0ca39d4d54c8f47887c137aba16
+    // 2ed001f7a8c865cb9392bef5cb27b08c
     $senha_cripto = md5($senha);
     echo $senha_cripto;
 

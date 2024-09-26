@@ -1,5 +1,5 @@
 <?php
-    
+    // $nome no band = $metodo[name da classe]
     include 'conecta.php';
 
     $nome_cliente = $_POST['nome'];

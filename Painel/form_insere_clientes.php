@@ -23,6 +23,7 @@
             <form action="insere_clientes.php" method="POST">
                 <div class="mb-3">
                     <label for="nome" class="form-label">Nome</label>
+                    <!-- name é o nome da coluna do banco -->
                     <input type="text" class="form-control" name="nome" placeholder="ex.: Seu nome" required>
                 </div>
                 <div class="mb-3">
